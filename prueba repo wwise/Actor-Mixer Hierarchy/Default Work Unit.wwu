@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{8A05100E-B81F-4728-9AB3-26E0DD78EEFC}" SchemaVersion="103">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{8A05100E-B81F-4728-9AB3-26E0DD78EEFC}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{8A05100E-B81F-4728-9AB3-26E0DD78EEFC}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Wind_2" ID="{51AB7EE6-ADF3-47EE-997B-2E1668A7A854}" ShortID="37548004">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EB9CDD51-94CE-479E-AAD1-D4C8345DBE90}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B9DC6617-03C0-415C-8F5E-4E6B27F502C4}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Wind_2" ID="{13F87F71-E44B-4EBC-8EDC-6854BCDB3BD2}">
+							<Language>SFX</Language>
+							<AudioFile>Wind_2.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="364984647"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Wind_2" ID="{13F87F71-E44B-4EBC-8EDC-6854BCDB3BD2}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>
