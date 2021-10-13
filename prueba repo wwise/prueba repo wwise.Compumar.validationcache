@@ -10,18 +10,19 @@
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Queries\Factory Queries.wwu" DateLow="1631308940" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Queries\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\prueba repo wwise.wproj" DateLow="1634083275" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\prueba repo wwise.Compumar.wsettings" DateLow="1634084879" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Presets\Factory Spatial Audio.wwu" DateLow="1631308940" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Presets\Factory Reflect.wwu" DateLow="1631309013" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Presets\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Modulators\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Metadata\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1634083291" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1631309015" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Game Parameters\Factory Motion.wwu" DateLow="1631309012" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Game Parameters\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Events\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Events\Default Work Unit.wwu" DateLow="1634084877" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Effects\Factory Reflect.wwu" DateLow="1631309013" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Effects\Factory McDSP Effects.wwu" DateLow="1631309020" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Effects\Factory Mastering Suite.wwu" DateLow="1631308996" DateHigh="0"/>
@@ -39,10 +40,10 @@
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1631308940" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Conversion Settings\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Audio Devices\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Audio Devices\Default Work Unit.wwu" DateLow="1634083291" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Attenuations\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1631308940" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1631309015" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1631309012" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1634083275" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1634083291" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Compumar\Desktop\game audio\prueba repositorio\prueba repo wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1634084782" DateHigh="0"/>
 </ValidationCache>

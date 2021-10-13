@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{2352DB90-5644-41C0-A5B1-977B58A98C4E}" SchemaVersion="103">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{2352DB90-5644-41C0-A5B1-977B58A98C4E}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{2352DB90-5644-41C0-A5B1-977B58A98C4E}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_viento" ID="{0BA72270-A224-4F1D-BB53-1872990C09A5}">
+					<ChildrenList>
+						<Action Name="" ID="{A1BAD985-3F8F-4E9E-A05C-D4286163A73F}" ShortID="1007720608">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Wind_2" ID="{51AB7EE6-ADF3-47EE-997B-2E1668A7A854}" WorkUnitID="{8A05100E-B81F-4728-9AB3-26E0DD78EEFC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>
